@@ -7,7 +7,7 @@ Entry-level Python scripts demonstrating core programming fundamentals: input ha
 
 ## Featured Projects
 
-### 📱 Tip Calculator
+### 1. 📱 Tip Calculator
 Interactive tool to split bills with custom tip percentage.
 
 **Skills Demonstrated:**
@@ -31,7 +31,8 @@ $56.0
 
 [View Code](tip_calculator.py)
 
-### 🎢 Rollercoaster Tickets
+
+### 2. 🎢 Rollercoaster Tickets
 Nested conditional pricing based on height/age/photo.
 
 **Skills Demonstrated:**
@@ -40,10 +41,13 @@ Nested conditional pricing based on height/age/photo.
 - String methods (`.upper()`)
 - Dynamic billing logic
 
-**Demo:**
+Demo:
+
 ![Rollercoaster Demo](screenshots/demo-rollercoaster_ticket.png)
 
 [View Code](rollercoaster_ticket.py)
+
+
 
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-beginner-projects.git`
