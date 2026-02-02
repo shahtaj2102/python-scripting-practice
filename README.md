@@ -41,7 +41,7 @@ Nested conditional pricing based on height/age/photo.
 - Dynamic billing logic
 
 **Demo:**
-![Rollercoaster Demo](screenshots/demo-rollercoaster_ticket.jpg)
+![Rollercoaster Demo](screenshots/demo-rollercoaster_ticket.png)
 
 [View Code](rollercoaster_ticket.py)
 
