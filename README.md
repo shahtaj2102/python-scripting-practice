@@ -31,9 +31,24 @@ $56.0
 
 [View Code](tip_calculator.py)
 
+### 🎢 Rollercoaster Tickets
+Nested conditional pricing based on height/age/photo.
+
+**Skills Demonstrated:**
+- Nested if/elif chains
+- Multiple conditions (`>=`, `<=`)
+- String methods (`.upper()`)
+- Dynamic billing logic
+
+**Demo:**
+![Rollercoaster Demo](screenshots/demo-rollercoaster_ticket.jpg)
+
+[View Code](rollercoaster_ticket.py)
+
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-beginner-projects.git`
-2. Run: `python tip_calculator.py`
+2. Run: `python rollercoaster_ticket.py` or `python tip_calculator.py`
 
 ## About
 Shahtaj – AWS Cloud Engineer, Toronto.
+[Portfolio](https://github.com/shahtaj2102) | [LinkedIn](https://www.linkedin.com/in/shahtaj-aws-sap-toronto)
