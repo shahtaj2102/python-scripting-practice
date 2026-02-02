@@ -50,5 +50,5 @@ Nested conditional pricing based on height/age/photo.
 2. Run: `python rollercoaster_ticket.py` or `python tip_calculator.py`
 
 ## About
-Shahtaj – AWS Cloud Engineer, Toronto.
+Shahtaj singh Gill – AWS Cloud Engineer, Toronto.
 [Portfolio](https://github.com/shahtaj2102) | [LinkedIn](https://www.linkedin.com/in/shahtaj-aws-sap-toronto)
