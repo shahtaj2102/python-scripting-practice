@@ -7,6 +7,7 @@ Entry-level Python scripts demonstrating core programming fundamentals: input ha
 
 ## Featured Projects
 
+
 ### 1. 📱 Tip Calculator
 Interactive tool to split bills with custom tip percentage.
 
@@ -17,17 +18,9 @@ Interactive tool to split bills with custom tip percentage.
 - Rounding (`round()`)
 
 **Demo:**
-```
-Welcome to the tip calculator!
-What was the total bill?
-$100
-What percentage tip would you like to give?
-12
-How many peopleto split the bill?
-2
-The amount to be paid by each person is
-$56.0
-```
+
+![Tip_calculator Demo](screenshots/demo-tip_calculator.png)
+
 
 [View Code](tip_calculator.py)
 
@@ -41,18 +34,35 @@ Nested conditional pricing based on height/age/photo.
 - String methods (`.upper()`)
 - Dynamic billing logic
 
-Demo:
+**Demo:**
 
 ![Rollercoaster Demo](screenshots/demo-rollercoaster_ticket.png)
 
 [View Code](rollercoaster_ticket.py)
 
 
+### 3. 🏝️ Treasure Island
+Interactive text adventure with branching story.
+
+**Skills Demonstrated:**
+- Deep nested if/elif (3 levels)
+- Multiline strings (ASCII art)
+- String methods (`.lower()`)
+
+**Demo:**
+
+![Treasure Demo](screenshots/demo-Treasure_island.png)
+
+[View Code](treasure_island.py)
+
+
+
 
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-beginner-projects.git`
-2. Run: `python rollercoaster_ticket.py` or `python tip_calculator.py`
+2. Run: `python rollercoaster_ticket.py` , `python tip_calculator.py` , `python Treasure_island.py`
 
 ## About
-Shahtaj singh Gill – AWS Cloud Engineer, Toronto.
+**Shahtaj Singh Gill** – AWS Cloud Engineer, Toronto.
+[![AWS](https://img.shields.io/badge/AWS-SAP-orange)](https://aws.amazon.com/certification/)
 [Portfolio](https://github.com/shahtaj2102) | [LinkedIn](https://www.linkedin.com/in/shahtaj-aws-sap-toronto)
