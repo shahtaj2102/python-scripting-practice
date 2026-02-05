@@ -56,8 +56,20 @@ Interactive text adventure with branching story.
 [View Code](treasure_island.py)
 
 
-### 4. 🏝️ Heads or Tails
-Run the programme to get a random heads or tails outcome.
+### 4. 🎲 Heads or Tails
+50/50 coin flip simulator using random module.
+
+**Skills Demonstrated:**
+- Random integers (`random.randint()`)
+- Simple if/else logic
+- Single-line conditional execution
+
+**Demo:**
+
+![Heads/Tails Demo](screenshots/demo-heads_or_tails.png)
+
+[View Code](Heads_or_tails.py)
+
 
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-beginner-projects.git`
