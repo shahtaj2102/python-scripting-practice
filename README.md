@@ -56,7 +56,8 @@ Interactive text adventure with branching story.
 [View Code](treasure_island.py)
 
 
-
+### 4. 🏝️ Heads or Tails
+Run the programme to get a random heads or tails outcome
 
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-beginner-projects.git`
