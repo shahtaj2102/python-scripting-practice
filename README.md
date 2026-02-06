@@ -71,6 +71,24 @@ Interactive text adventure with branching story.
 [View Code](Heads_or_tails.py)
 
 
+### 5. ✂️ Rock Paper Scissors
+Classic 2-player ASCII art game with input validation and win/loss logic.
+
+**Skills Demonstrated:**
+- ASCII multiline strings
+- List indexing (`game_images[user_choice]`)
+- Input validation (`if user_choice < 0 or > 2`)
+- Complex conditional logic (win/lose/draw)
+- Random computer opponent (`random.randint(0, 2)`)
+
+**Demo:**
+
+![Rock Paper Scissors Demo](screenshots/demo-rock_paper_scissors.png)
+
+[View Code](rock_paper_scissors.py)
+
+
+
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-beginner-projects.git`
 2. Run: `python rollercoaster_ticket.py` , `python tip_calculator.py` , `python Treasure_island.py` , `python Heads_or_tails.py`
