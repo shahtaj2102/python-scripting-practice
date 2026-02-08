@@ -99,7 +99,7 @@ Interactive CLI tool generates secure, customizable passwords via random charact
 - String concatenation (`"".join()`)
 
 **Demo:**
-![Password Generator Demo](screenshots/demo-password_generator.png)
+![Password Generator Demo](screenshots/demo-Password_generator.png)
 [View Code](Password_generator.py)
 
 ## Quick Start
