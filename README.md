@@ -10,7 +10,7 @@ Entry-level Python scripts demonstrating core programming fundamentals: input ha
 ### 📋 Table of Contents
 - [1. Tip Calculator](#1--Tip-calculator)
 - [2. Rollercoaster Tickets](#2--rollercoaster-tickets)
-- [3. Treasure Island](#3--Treasure-island)
+- [3. Treasure Island](#3--Treasure-Island)
 - [4. Heads or Tails](#4--heads-or-tails)
 - [5. Rock Paper Scissors](#5--Rock-Paper-Scissors)
 - [6. Password Generator](#6--password-generator)
