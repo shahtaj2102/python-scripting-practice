@@ -8,11 +8,11 @@ Entry-level Python scripts demonstrating core programming fundamentals: input ha
 ## Featured Projects
 
 ### 📋 Table of Contents
-- [1. Tip Calculator](#1--Tip-calculator)
+- [1. Tip Calculator](#1--tip-calculator)
 - [2. Rollercoaster Tickets](#2--rollercoaster-tickets)
-- [3. Treasure Island](#3--treasure-island)
+- [3. Treasure Island](#3-treasure-island)
 - [4. Heads or Tails](#4--heads-or-tails)
-- [5. Rock Paper Scissors](#5--Rock-Paper-Scissors)
+- [5. Rock Paper Scissors](#5-rock-paper-scissors)
 - [6. Password Generator](#6--password-generator)
 
 
@@ -49,7 +49,7 @@ Nested conditional pricing based on height/age/photo.
 [View Code](rollercoaster_ticket.py)
 
 
-### 3. 🏝️ Treasure Island
+### 3. Treasure Island
 Interactive text adventure with branching story.
 
 **Skills Demonstrated:**
@@ -79,7 +79,7 @@ Interactive text adventure with branching story.
 [View Code](Heads_or_tails.py)
 
 
-### 5. ✂️ Rock Paper Scissors
+### 5. Rock Paper Scissors
 Classic 2-player ASCII art game with input validation and win/loss logic.
 
 **Skills Demonstrated:**
