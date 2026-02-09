@@ -14,7 +14,7 @@ Entry-level Python scripts demonstrating core programming fundamentals: input ha
 - [4. Heads or Tails](#4--heads-or-tails)
 - [5. Rock Paper Scissors](#5-rock-paper-scissors)
 - [6. Password Generator](#6--password-generator)
-
+- [7. Hangman](#7--hangman)
 
 ### 1. 📱 Tip Calculator
 Interactive tool to split bills with custom tip percentage.
@@ -124,7 +124,13 @@ Single-player word guessing game with 6 lives, random words, and ASCII stages.
 
 **Demo:**
 
-![Hangman Demo](screenshots/demo-Hangman.png)
+![Hangman Demo](screenshots/demo-Hangman_1.png)
+![Hangman Demo](screenshots/demo-Hangman_2.png)
+![Hangman Demo](screenshots/demo-Hangman_3.png)
+
+So on till either we guess the word or loose the game.
+
+![Hangman Demo](screenshots/demo-Hangman_4.png)
 
 [View Code](Hangman.py)
 
