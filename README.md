@@ -112,22 +112,21 @@ Interactive CLI tool generates secure, customizable passwords via random charact
 
 [View Code](Password_generator.py)
 
-7. 🎮 Hangman
-Single-player word guessing game with limited lives, dynamic display, and ASCII hangman figure progression.
+### 7. 🎮 Hangman
+Single-player word guessing game with 6 lives, random words, and ASCII stages.
 
-Skills Demonstrated:
+**Skills Demonstrated:**
+- Random word choice (`random.choice()`)
+- Blanks display (`"_".join()`)
+- Lives counter (`lives -= 1`)
+- Repeated guesses (`while "_" in display`)
+- ASCII stages (`stages[lives]`)
 
-Random word selection (random.choice(word_list))
+**Demo:**
 
-String building with blanks ("".join(display))
+![Hangman Demo](screenshots/demo-Hangman.png)
 
-Lives counter and wrong guess stages (lives -= 1; stages[lives])
-
-Input validation and loop control (while "_" in display and lives > 0)
-
-Nested conditionals (letter check, win/lose)
-
-Demo:
+[View Code](Hangman.py)
 
 View Code
 ​
