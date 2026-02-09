@@ -112,6 +112,26 @@ Interactive CLI tool generates secure, customizable passwords via random charact
 
 [View Code](Password_generator.py)
 
+7. 🎮 Hangman
+Single-player word guessing game with limited lives, dynamic display, and ASCII hangman figure progression.
+
+Skills Demonstrated:
+
+Random word selection (random.choice(word_list))
+
+String building with blanks ("".join(display))
+
+Lives counter and wrong guess stages (lives -= 1; stages[lives])
+
+Input validation and loop control (while "_" in display and lives > 0)
+
+Nested conditionals (letter check, win/lose)
+
+Demo:
+
+View Code
+​
+
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-beginner-projects.git`
 2. Run: `python rollercoaster_ticket.py` , `python tip_calculator.py` , `python Treasure_island.py` , `python Heads_or_tails.py` , `python rock_paper_scissors.py` , `python Password_generator.py`
