@@ -135,6 +135,22 @@ So on till either we guess the word or loose the game.
 
 [View Code](Hangman/Hangman.py)
 
+### 8. 🔤 Caesar Cipher
+Interactive text encoder/decoder with modular encrypt/decrypt functions and alphabet wrapping.
+
+**Skills Demonstrated:**
+- Separate encrypt/decrypt functions
+- Modulo wrapping (`% len(alphabet)`)
+- Parameter passing (`original_text=text`)
+- Function controller (`caesar(direction)`)
+- Negative shift handling (decrypt fix)
+
+**Demo:**
+
+![Caesar Cipher Demo](screenshots/demo-Caesar_cipher.png)
+
+[View Code](caesar_cipher.py)
+
 ​
 
 ## Quick Start
