@@ -156,7 +156,7 @@ Interactive text encoder/decoder with modular encrypt/decrypt functions and alph
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-beginner-projects.git`
 2. Run: `python rollercoaster_ticket.py` , `python tip_calculator.py` , `python Treasure_island.py` , `python Heads_or_tails.py` , `python rock_paper_scissors.py` , `python Password_generator.py` ,
-        `python Hangman.py`
+        `python Hangman.py` , `python caesar_cipher.py`
 
 ## About
 **Shahtaj Singh Gill** – AWS Cloud Engineer, Toronto.
