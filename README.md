@@ -147,9 +147,10 @@ Infinite replay text encoder/decoder using single function with negative shift t
 
 **Demo:**
 
-![Caesar Cipher Demo](screenshots/demo-Caesar_cipher.png)
+![Caesar Cipher Demo](screenshots/demo-caesar_cipher_1.png)
+![Caesar Cipher Demo](screenshots/demo-caesar_cipher_2.png)
 
-[View Code](caesar_cipher.py)
+[View Code](caesar_cipher/caesar_cipher.py)
 
 
 ​
