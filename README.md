@@ -15,6 +15,7 @@ Entry-level Python scripts demonstrating core programming fundamentals: input ha
 - [5. Rock Paper Scissors](#5-rock-paper-scissors)
 - [6. Password Generator](#6--password-generator)
 - [7. Hangman](#7--hangman)
+- [8. Caesar cipher](#8--caesar-cipher)
 
 ### 1. 📱 Tip Calculator
 Interactive tool to split bills with custom tip percentage.
