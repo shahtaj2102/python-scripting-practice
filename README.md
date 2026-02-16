@@ -152,7 +152,21 @@ Infinite replay text encoder/decoder using single function with negative shift t
 
 [View Code](Caesar_cipher/caesar_cipher.py)
 
+### 9. 🕶️ Blind Auction
+Secret bidding game—highest hidden bid wins!
 
+**Skills Demonstrated:**
+- While loops for continuous input
+- Dictionaries (`{name: bid}`)
+- Custom functions (`find_highest_bidder()`)
+- f-string winner announcement
+- User validation (yes/no continue)
+
+**Demo:**
+
+![Blind Auction Demo](screenshots/demo-Blind_auction.png)
+
+[View Code](Blind_auction.py)
 ​
 
 ## Quick Start
