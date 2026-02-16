@@ -16,7 +16,7 @@ Entry-level Python scripts demonstrating core programming fundamentals: input ha
 - [6. Password Generator](#6--password-generator)
 - [7. Hangman](#7--hangman)
 - [8. Caesar cipher](#8--caesar-cipher)
-- [9. Blind auction](#9--blind-auction)
+- [9. Blind auction](#9-blind-auction)
 
 ### 1. 📱 Tip Calculator
 Interactive tool to split bills with custom tip percentage.
@@ -153,7 +153,7 @@ Infinite replay text encoder/decoder using single function with negative shift t
 
 [View Code](Caesar_cipher/caesar_cipher.py)
 
-### 9. 🕶️ Blind auction
+### 9. Blind auction
 Secret bidding game—highest hidden bid wins!
 
 **Skills Demonstrated:**
