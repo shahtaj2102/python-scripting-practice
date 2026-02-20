@@ -170,6 +170,8 @@ Secret bidding game—highest hidden bid wins!
 ![Blind Auction Demo](screenshots/demo-Blind_auction_2.png)
 
 [View Code](Blind_auction.py)
+
+[1. Tip Calculator](--table-of-contents)
 ​
 
 ## Quick Start
