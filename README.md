@@ -29,8 +29,7 @@ Interactive tool to split bills with custom tip percentage.
 
 **Demo:**
 
-[⬆ Back to Top](#table-of-contents)
-
+![Tip Calculator demo](screenshots/demo-tip_calculator.png)
 
 [View Code](tip_calculator.py)
 
