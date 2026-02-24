@@ -5,7 +5,7 @@ Entry-level Python scripts demonstrating core programming fundamentals: input ha
 [![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## Featured Projects
+## Featured Projects.
 
 ### Table of Contents
 - [1. Tip Calculator](#1--tip-calculator)
