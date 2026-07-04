@@ -1,6 +1,6 @@
-# Python Beginner Projects 🐍
+# Python Scripting Practice 🐍
 
-Entry-level Python scripts demonstrating core programming fundamentals: input handling, math, strings, and functions. Building blocks for AWS automation and DevOps scripting.
+Python scripts demonstrating core programming fundamentals: input handling, math, strings, and functions. Building blocks for AWS automation and DevOps scripting.
 
 [![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
