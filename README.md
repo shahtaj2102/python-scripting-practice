@@ -129,7 +129,7 @@ Single-player word guessing game with 6 lives, random words, and ASCII stages.
 ![Hangman Demo](screenshots/demo-Hangman_2.png)
 ![Hangman Demo](screenshots/demo-Hangman_3.png)
 
-So on till either we guess the word or loose the game.
+So on till either we guess the word or lose the game.
 
 ![Hangman Demo](screenshots/demo-Hangman_4.png)
 
