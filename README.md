@@ -86,7 +86,7 @@ Classic 2-player ASCII art game with input validation and win/loss logic.
 **Skills Demonstrated:**
 - ASCII multiline strings
 - List indexing (`game_images[user_choice]`)
-- Input validation (`if user_choice < 0 or > 2`)
+- Input validation (`if user_choice < 0 or user_choice > 2`)
 - Complex conditional logic (win/lose/draw)
 - Random computer opponent (`random.randint(0, 2)`)
 
