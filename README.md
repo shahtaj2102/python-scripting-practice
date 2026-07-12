@@ -174,7 +174,7 @@ Secret bidding game—highest hidden bid wins!
 ​
 
 ## Quick Start
-1. Clone: `git clone hhttps://github.com/shahtaj2102/python-scripting-practice.git`
+1. Clone: `git clone https://github.com/shahtaj2102/python-scripting-practice.git`
 2. Run: `python rollercoaster_ticket.py` , `python tip_calculator.py` , `python Treasure_island.py` , `python Heads_or_tails.py` , `python rock_paper_scissors.py` , `python Password_generator.py` ,
         `python Hangman.py` , `python caesar_cipher.py` , `python Blind_auction.py`
 
