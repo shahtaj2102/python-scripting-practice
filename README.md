@@ -15,7 +15,7 @@ Python scripts demonstrating core programming fundamentals: input handling, math
 - [5. Rock Paper Scissors](#5-rock-paper-scissors)
 - [6. Password Generator](#6--password-generator)
 - [7. Hangman](#7--hangman)
-- [8. Caesar cipher](#8--caesar-cipher)
+- [8. Caesar Cipher](#8--caesar-cipher)
 - [9. Blind auction](#9-blind-auction)
 
 ### 1. 📱 Tip Calculator
