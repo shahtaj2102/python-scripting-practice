@@ -98,7 +98,7 @@ Classic 2-player ASCII art game with input validation and win/loss logic.
 
 
 ### 6. 🔐 Password Generator
-Interactive CLI tool generates secure, customizable passwords via random character selection and shuffling.
+Interactive CLI tool that generates secure, customizable passwords via random character selection and shuffling.
 
 **Skills Demonstrated:**
 - User input parsing (`int(input())`)
