@@ -17,6 +17,7 @@ Python scripts demonstrating core programming fundamentals: input handling, math
 - [7. Hangman](#7--hangman)
 - [8. Caesar Cipher](#8--caesar-cipher)
 - [9. Blind auction](#9-blind-auction)
+
 ### 1. 📱 Tip Calculator
 Interactive tool to split bills with custom tip percentage.
 
